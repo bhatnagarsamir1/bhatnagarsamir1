@@ -1,10 +1,32 @@
 # About me
+- Samir Bhatnagar — Product Leader | Agentic AI | FinTech | MarTech
+- I build AI-powered platforms that solve real customer problems — from 0→1 products to enterprise-scale deployments.
+- Currently Director at Citibank, previously Forge Global, Salesforce, Oracle, and IBM.
 
-Product leader with 15+ years building AI-powered platforms and digital experiences across FinTech, MarTech, and enterprise SaaS — from innovative startups like Forge Global to Fortune 100 companies including Citibank, Salesforce, Oracle, and IBM. I specialize in deploying agentic AI solutions that solve real customer problems and drive measurable business outcomes.
+# What I Build
+- 🤖 Agentic AI products in production — RAG architectures, LLM-powered virtual assistants, hallucination mitigation
+- 🔗 Partner ecosystems and API platforms — self-service onboarding, developer experience, B2B growth
+- 📊 Growth and self-service platforms — funnel optimization, behavioral analytics, subscription models
+- 🏦 FinTech and MarTech solutions — regulated environments, compliance-first product delivery
 
-I'm passionate about mentoring product teams and teaching design thinking principles — currently serving as a Course Facilitator at Stanford Graduate School of Business's LEAD program, where I guide executives and engineers on translating AI capabilities into meaningful customer value.
+# Currently Exploring
+- MCP protocol and multi-agent orchestration patterns for enterprise workflows
+- How agentic commerce reshapes the payments and trust layer
+- Rapid prototyping with Claude and Lovable to validate product hypotheses faster
 
-Outside of work, I've practiced meditation, yoga, and breathwork for over 10 years — disciplines that sharpen focus and bring clarity to complex decisions. I'm also an avid tennis player (USTA Rating 4.0), competing in leagues and tournaments throughout the Bay Area.
+# My Stack
+- PM Tools: Figma · Miro · Jira · Heap · Tableau · Power BI
+- AI Tools: Claude · Langchain · Vertex AI · Crew AI · OpenAI · Power Automate
 
-# Areas of Expertise
-AI Product Strategy • Cross-Functional Leadership • Product Vision & Roadmapping • Customer Experience Design • Data-Driven Decision Making • Go-to-Market Strategy • FinTech/MarTech Solutions • Team Building & Mentorship
+# A Bit More
+- Course Facilitator at Stanford GSB LEAD — teaching Design Thinking to entrepreneurs & engineers from Meta, Google, and beyond.
+- USTA 4.0 tennis player.
+- 10 years of meditation and breathwork practice.
+
+# Published articles
+- [Acceleration with Agentic AI for FinTechs & Banks](https://www.linkedin.com/feed/update/urn:li:activity:7387281528478789632/)
+- [Beyond the Hype: Understanding AI Agents](https://www.linkedin.com/feed/update/urn:li:activity:7304738318880030720/)
+- [Key Performance Metrics for AI Agent Evaluation](https://www.linkedin.com/feed/update/urn:li:activity:7312638185044357120/)
+- [Safe and Reliable AI via Guardrails](https://www.linkedin.com/feed/update/urn:li:activity:7287201134690152449/)
+# Connect
+- [Find me on LinkedIn](https://www.linkedin.com/in/samirbhatnagar-strategist)
